@@ -1,5 +1,5 @@
 public class Integral {
-    public static final int STEPS = 100000000;
+    public static final int STEPS = 100000002;
     public static final int THREADS = 6;
     public static final int ITEMS_PER_THREAD = STEPS / THREADS;
 
